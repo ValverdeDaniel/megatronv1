@@ -1,0 +1,10 @@
+
+#uniswap sdk/guides on fetching spot prices and creating trades
+https://docs.uniswap.org/sdk/guides/fetching-prices
+
+# creating conda environment megatron1
+conda create --name megatron1
+# checking environments available on my local anaconda
+conda info --envs 
+
+conda activate megatron1
