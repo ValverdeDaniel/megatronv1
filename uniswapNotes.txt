@@ -6,5 +6,5 @@ https://docs.uniswap.org/sdk/guides/fetching-prices
 conda create --name megatron1
 # checking environments available on my local anaconda
 conda info --envs 
-
+#activating megatron environment
 conda activate megatron1
